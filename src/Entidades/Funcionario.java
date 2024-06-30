@@ -76,6 +76,6 @@ public class Funcionario {
     @Override
     public String toString() {
         return "Nome: " + nome + ", Idade: " + idade + ", Telefone: " + telefone +
-                ", Email: " + email + ", Alergias: " + alergias +" ,Problemas médicos: " + problemasMed;
+                ", Email: " + email + ", Alergias: " + alergias +", Problemas médicos: " + problemasMed;
     }
 }
